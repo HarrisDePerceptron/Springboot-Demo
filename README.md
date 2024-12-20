@@ -7,3 +7,5 @@
 ./gradlew bootRun
 ```
 
+
+Access server at: `http://localhost:8080`
