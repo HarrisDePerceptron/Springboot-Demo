@@ -1,6 +1,7 @@
 ## Springboot-Demo
 
-![Home Page](./assets/home.png)
+<img src="./assets/home.png" alt="home page" width="50%" />
+
 
 ### Getting Started 
 
