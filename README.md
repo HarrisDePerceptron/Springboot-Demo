@@ -1,1 +1,9 @@
-# Springboot-Demo
+## Springboot-Demo
+
+
+### Getting Started 
+
+```
+./gradlew bootRun
+```
+
