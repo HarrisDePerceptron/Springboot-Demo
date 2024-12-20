@@ -1,5 +1,6 @@
 ## Springboot-Demo
 
+![Home Page](./assets/home.png)
 
 ### Getting Started 
 
