@@ -1,6 +1,6 @@
 ## Springboot-Demo
 
-<img src="./assets/home.png" alt="home page" width="50%" />
+<img src="./assets/home.png" alt="home page" width="70%" />
 
 
 ### Getting Started 
