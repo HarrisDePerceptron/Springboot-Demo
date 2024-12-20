@@ -4,7 +4,7 @@
 
 
 #### Boilerplate
-You can generate the initialize the boilerplate at [spring initializer](https://start.spring.io/)
+You can generate and initialize the boilerplate at [spring initializer](https://start.spring.io/)
 
 
 ### Getting Started 
